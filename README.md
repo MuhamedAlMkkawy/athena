@@ -1,1 +1,1 @@
-# Athena #
+# Athena Educational Platform #
